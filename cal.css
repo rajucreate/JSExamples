@@ -1,0 +1,23 @@
+.text{
+    color:red;
+    font-family:"Arial";
+}
+
+body{
+    background:linear-gradient(to left, rgb(192, 192, 224), rgb(252, 231, 231),rgb(244, 79, 106));
+    text-align:center;
+}
+
+button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius:50%;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
